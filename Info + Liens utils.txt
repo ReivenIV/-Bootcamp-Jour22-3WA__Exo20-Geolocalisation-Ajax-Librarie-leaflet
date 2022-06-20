@@ -1,0 +1,16 @@
+
+
+pour créer une map avec des markers
+la librairie leafet est entièrement gratuite
+https://leafletjs.com/
+https://leafletjs.com/examples/quick-start/
+
+https://nominatim.org/
+Nominatim
+Open source geocoding with OpenStreetMap data
+pour récupérer les infos avec les coordonnées en fonction de notre position
+l'intéret de nominatim
+on peut envoyer une addresse
+nominatim va nous retourner un objet avec les coordonnées de cet adresse
+l'intérêt est qu'on pourra grâce à ça créer et positionner facilement des markers avec les géopositions récupérées
+https://nominatim.org/release-docs/develop/api/Search/
